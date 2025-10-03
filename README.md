@@ -7,5 +7,5 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 # ENOC's Report of Activities 2025-2026
 
 ## October 2025
-- Held the first co-chairs meeting (Oct 2)
+- Held the first co-chairs meeting ([minutes](minutes/2025-10-02_minutes.md))
 - Created a Bluesky account for ENOC (handle: `@opencriminology.bsky.social`)
