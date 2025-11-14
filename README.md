@@ -9,3 +9,5 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 ## October 2025
 - Held the first co-chairs meeting ([minutes](minutes/2025-10-02_minutes.md))
 - Created a Bluesky account for ENOC (handle: `@opencriminology.bsky.social`)
+- Inquired about contribution to ESC summer school
+- Draft of piece for ESC newsletter
