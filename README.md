@@ -8,7 +8,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 ## November 2025
 - Submitted a piece for the ESC newsletter
-- Held the second co-chairs meeting (add minutes here)
+- Held the second co-chairs meeting ([minutes](minutes/2025-11-20_minutes.md)
 - Inquired about a new 'Early Career Researcher' category for ENOC's Open Criminology Award
 
 ## October 2025
