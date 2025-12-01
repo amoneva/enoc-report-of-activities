@@ -6,8 +6,13 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 # ENOC's Report of Activities 2025-2026
 
+## November 2025
+- Submitted a piece for the ESC newsletter
+- Held the second co-chairs meeting (add minutes here)
+- Inquired about a new 'Early Career Researcher' category for ENOC's Open Criminology Award
+
 ## October 2025
 - Held the first co-chairs meeting ([minutes](minutes/2025-10-02_minutes.md))
 - Created a Bluesky account for ENOC (handle: `@opencriminology.bsky.social`)
-- Inquired about contribution to ESC summer school
-- Draft of piece for ESC newsletter
+- Inquired about a possible contribution by ENOC to the ESC summer school
+- Drafted a piece for the ESC newsletter
