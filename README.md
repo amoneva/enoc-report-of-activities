@@ -6,6 +6,13 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 # ENOC's Report of Activities 2025-2026
 
+## January 2026
+- Held the third co-chairs meeting 
+
+## December 2025
+- Confirmed Sandy Schumman as speaker for the ESC Summer School 2026
+- Secured three-year funding from NSCR for an 'ENOC's Open Criminology Award for Early Career Researchers'
+
 ## November 2025
 - Submitted a piece for the ESC newsletter
 - Held the second co-chairs meeting ([minutes](minutes/2025-11-20_minutes.md))
