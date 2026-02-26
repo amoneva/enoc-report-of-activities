@@ -6,6 +6,9 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 # ENOC's Report of Activities 2025-2026
 
+## February 2026
+- Held the fourth co-chairs meeting
+
 ## January 2026
 - Held the third co-chairs meeting ([minutes](minutes/2026-01-15_minutes.md))
 - Published a piece in the ESC newsletter: [Skardhamar, T. et al. (2026). Criminology is lagging behind](https://escnewsletter.org/archive/criminology-is-lagging-behind)
