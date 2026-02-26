@@ -8,6 +8,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 ## January 2026
 - Held the third co-chairs meeting ([minutes](minutes/2026-01-15_minutes.md))
+- Published a piece in the ESC newsletter: [Skardhamar, T. et al. (2026). Criminology is lagging behind](https://escnewsletter.org/archive/criminology-is-lagging-behind)
 
 ## December 2025
 - Confirmed Sandy Schumman as speaker for the ESC Summer School 2026
