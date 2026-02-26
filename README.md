@@ -7,7 +7,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 # ENOC's Report of Activities 2025-2026
 
 ## January 2026
-- Held the third co-chairs meeting 
+- Held the third co-chairs meeting ([minutes](minutes/2026-01-15_minutes.md))
 
 ## December 2025
 - Confirmed Sandy Schumman as speaker for the ESC Summer School 2026
