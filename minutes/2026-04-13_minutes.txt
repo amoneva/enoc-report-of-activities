@@ -1,0 +1,55 @@
+Meeting Minutes
+Date: 2026-04-13; 09:30
+Present: Alex, Asier, Isabelle
+Absent: -
+Minutes: Asier
+
+----
+
+1. Awards
+- ESC Board sponsorship decision. Marcelo has not yet communicated the ESC Board's decision regarding sponsorship of the ENOC awards.
+> Action point: Asier will follow up with Marcelo.
+
+- Eligibility criteria for the two proposed awards. ENOC defines an Early Career Researcher (ECR) as a scholar who is within four years post-PhD. This definition aligns with eligibility criteria typically used in Dutch and German talent grant schemes.
+
+- Nominations. Self-nominations are not accepted for the Open Criminology Award. ENOC reserves the right to declare an award vacant if no suitable candidate is identified.
+
+- Supporting materials. Applicants must provide examples of contributions demonstrating alignment with the award criteria:
+	+ ECR applicants: maximum of 3 contributions
+	+ Senior applicants: maximum of 5 contributions
+This limit is intended to facilitate a qualitative assessment.
+
+- Application procedure. To simplify the application process, ENOC will develop a brief online questionnaire through which applicants can:
+	+ Provide contact details of the nominee
+	+ Upload the required supporting contributions as separate files
+> Action point: Alex will send a concept of the questionnaire around.
+> Action point: ENOC Co-Chairs will revise the eligibility and award criteria and circulate updates by email within the next week.
+
+- Timeline. Applications for the Open Criminology Award will open once the awards are approved by the ESC Board. The application deadline will be set with sufficient lead time to allow for customization of the award (timeline to be determined).
+
+- Award format and ceremony. The award will be presented as a paper certificate rather than a physical trophy. While awardees are not required to be present at the ceremony, attendance is strongly encouraged.
+
+- Selection committee. The selection committee will consist of three members. If sponsorship is approved by the ESC Board, the committee will include two ENOC Co-Chairs and one representative of the sponsor(s). Any conflicts of interest will be carefully considered and managed.
+
+2. EUROCRIM
+
+- Pre-conference meeting. ENOC will organize a pre‑conference meeting at EUROCRIM comprising:
+	+ A preparatory event for a Many Labs collaboration in Criminology
+	+ The ENOC General Assembly
+The Many Labs event is coordinated with a grant application to Open Science NL (Open Science Meetings category), prepared by Asier and Wouter Steenbeek.
+> Action point: Asier will submit the formal request to organize the ENOC pre-conference meeting at EUROCRIM.
+
+- Social activities. Isabelle is organizing an informal social gathering in Warsaw on the evening of 9 September, with drinks following the EUROCRIM program. In addition, ENOC members will be invited to join a casual lunch during the Many Labs event. Alex suggested surveying ENOC members to assess interest in participating in the social gathering.
+> Action point: Isabelle will continue organizing the social activity and coordinate any related communication.
+
+- Roundtables. ENOC planned to organize two roundtables at EUROCRIM:
+	+ Repeatability in Criminology
+	+ Navigating Data, Privacy, and Open Science in European Criminological Research
+At present, only the first roundtable has been formally submitted.
+
+3. Any Other Business (AoB)
+- Website updates.
+> Action point: Asier will upload the minutes of the Athens meeting to the ENOC website.
+> Action point: Alex will enhance the visibility of the Open Criminology Award on the website and add past awardees to the awards page.
+
+- Next meeting. The next co-chairs meeting is scheduled for 8 June 2026 at 14:00.
