@@ -6,8 +6,14 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 # ENOC's Report of Activities 2025-2026
 
+## April 2026
+- Held the fifth co-chairs meeting ([minutes](minutes/2026-04-13_minutes.md))
+
+## March 2026
+- Submitted a roundtable on "Repeatability in Criminology" to EUROCRIM26
+
 ## February 2026
-- Held the fourth co-chairs meeting
+- Held the fourth co-chairs meeting ([minutes](minutes/2026-02-26_minutes.md))
 
 ## January 2026
 - Held the third co-chairs meeting ([minutes](minutes/2026-01-15_minutes.md))
