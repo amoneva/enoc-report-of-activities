@@ -6,6 +6,12 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 # ENOC's Report of Activities 2025-2026
 
+## June 2026
+- Held the sixth co-chairs meeting
+
+## May 2026
+- Submitted a proposal for a pre-conference meeting to EUROCRIM26
+
 ## April 2026
 - Held the fifth co-chairs meeting ([minutes](minutes/2026-04-13_minutes.md))
 
