@@ -10,7 +10,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 - Held the sixth co-chairs meeting
 
 ## May 2026
-- Submitted a proposal for a pre-conference meeting to EUROCRIM26
+- Submitted a proposal for a pre-conference meeting to EUROCRIM26. The meeting is called "General assembly & CRIMLabs: Collaborative Replication Initiative for Many-Labs evidence in Criminology"
 
 ## April 2026
 - Held the fifth co-chairs meeting ([minutes](minutes/2026-04-13_minutes.md))
