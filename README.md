@@ -17,6 +17,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 ## March 2026
 - Submitted a roundtable on "Repeatability in Criminology" to EUROCRIM26
+- Distributed the first edition of ENOC's Newsletter
 
 ## February 2026
 - Held the fourth co-chairs meeting ([minutes](minutes/2026-02-26_minutes.md))
