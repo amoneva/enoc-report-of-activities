@@ -6,8 +6,13 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 # ENOC's Report of Activities 2025-2026
 
+## July 2026
+- Held the seventh co-chairs meeting ([minutes](minutes/2026-07-20_minutes.md))
+- Sent out invitations and distributed a preliminary programme for the pre-conference meeting at EUROCRIM26
+- Developed a rubric to assess candidates for the Open Criminology Awards
+
 ## June 2026
-- Held the sixth co-chairs meeting
+- Held the sixth co-chairs meeting ([minutes](minutes/2026-06-08_minutes.md))
 
 ## May 2026
 - Submitted a proposal for a pre-conference meeting to EUROCRIM26. The meeting is called "General assembly & CRIMLabs: Collaborative Replication Initiative for Many-Labs evidence in Criminology"
