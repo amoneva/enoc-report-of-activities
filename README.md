@@ -18,6 +18,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 ## June 2026
 - Held the sixth co-chairs meeting ([minutes](minutes/2026-06-08_minutes.md))
+- Received the grant from Open Science NL for Open Science Meetings, under the title: 'CRIMLabs: Collaborative Replication Initiative for Many-Labs evidence in Criminology"
 
 ## May 2026
 - Submitted a proposal for a pre-conference meeting to EUROCRIM26. The meeting is called "General assembly & CRIMLabs: Collaborative Replication Initiative for Many-Labs evidence in Criminology"
