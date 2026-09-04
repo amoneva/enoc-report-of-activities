@@ -8,13 +8,16 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 
 ## September 2026
 - Held the eighth co-chairs meeting ([minutes](minutes/2026-09-02_minutes.md))
-
+- Distribute the programme for the pre-conference meeting and ENOC's General Assembly at EUROCRIM26
+  
 ## August 2026
-
+- Held a meeting with [Stephen Eglen and Daniel Nüst](https://doi.org/10.7557/5.4910) to explore the possibilty of opening a [CODECHECK](https://codecheck.org.uk/project/) Criminology hub.
+- 
 ## July 2026
 - Held the seventh co-chairs meeting ([minutes](minutes/2026-07-20_minutes.md))
 - Sent out invitations and distributed a preliminary programme for the pre-conference meeting at EUROCRIM26
 - Developed a rubric to assess candidates for the Open Criminology Awards
+- Evaluate the candidates for the Open Criminology Awards 2026 and notify the winners.
 
 ## June 2026
 - Held the sixth co-chairs meeting ([minutes](minutes/2026-06-08_minutes.md))
