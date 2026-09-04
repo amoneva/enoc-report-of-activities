@@ -18,6 +18,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 - Sent out invitations and distributed a preliminary programme for the pre-conference meeting at EUROCRIM26
 - Developed a rubric to assess candidates for the Open Criminology Awards
 - Evaluate the candidates for the Open Criminology Awards 2026 and notify the winners.
+- Secured three-year funding from MPI-CSL for an 'ENOC's Open Criminology Award for Established Researchers'
 
 ## June 2026
 - Held the sixth co-chairs meeting ([minutes](minutes/2026-06-08_minutes.md))
