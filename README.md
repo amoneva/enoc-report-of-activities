@@ -11,7 +11,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 - Distribute the programme for the pre-conference meeting and ENOC's General Assembly at EUROCRIM26
   
 ## August 2026
-- Held a meeting with [Stephen Eglen and Daniel Nüst](https://doi.org/10.7557/5.4910) to explore the possibilty of opening a [CODECHECK](https://codecheck.org.uk/project/) Criminology hub.
+- Held a meeting with [Stephen Eglen and Daniel Nüst](https://doi.org/10.7557/5.4910) to explore the possibilty of establishing a [CODECHECK](https://codecheck.org.uk/project/) Criminology hub.
 
 ## July 2026
 - Held the seventh co-chairs meeting ([minutes](minutes/2026-07-20_minutes.md))
