@@ -7,7 +7,7 @@ This repository serves as a collaborative space to maintain and update ENOC's re
 # ENOC's Report of Activities 2025-2026
 
 ## October 2026
-- Held the eighth co-chairs meeting
+- Held the ninth co-chairs meeting
 
 ## September 2026
 - Held the eighth co-chairs meeting ([minutes](minutes/2026-09-02_minutes.md))
